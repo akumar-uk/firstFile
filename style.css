@@ -1,0 +1,22 @@
+body{
+    background-color: lightslategray;
+    font-family: helvetica;
+}
+.box{
+    display: flex;
+    background-color: rgb(39, 80, 80);
+   
+}
+.div{
+   font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: teal;
+    color: wheat;
+}
+
+h1{
+    background-color: teal;
+    color: wheat;
+    padding: 2rem;
+}
